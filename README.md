@@ -60,7 +60,7 @@ Online grocery delivery platform with inventory management.
 - Frontend–Backend Integration Testing
 - Checkout and Inventory Flow Validation
 
-### 🚗 [URBAN ROUTES — Transportation Application](https://github.com/AxelArteaga21/qa-automation-Urban-Routes-es/tree/main)
+### 🚗 [URBAN ROUTES — Transportation Application](https://github.com/AxelArteaga21/qa-automation-Urban-Routes-es)
 
 Ride-sharing application with booking, payment, and cancellation workflows.
 
